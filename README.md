@@ -11,3 +11,18 @@
 변경후:
 1.링크를 이용
 2.여러개의 하드를 등록가능!
+
+----------------------------------------------------------------------------------
+
+Protect your program! (Simple Hard Rock Modified Version)
+
+Recently, I came across Simple Hard Rock on github.
+However, I did not know how to use txt, and even if I change it to a link, it is a method of registering each one, so I made it because it was too efficient.
+
+Before change :
+1.Use TXT
+2. Only one can be used
+
+after change:
+1. Use the link
+2. Multiple hard drives can be registered!
