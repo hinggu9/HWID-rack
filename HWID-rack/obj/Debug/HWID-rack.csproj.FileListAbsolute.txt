@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\HWID-rack\HWID-rack\bin\Debug\HWID-rack.exe.config
+C:\Users\user\source\repos\HWID-rack\HWID-rack\bin\Debug\HWID-rack.exe
+C:\Users\user\source\repos\HWID-rack\HWID-rack\bin\Debug\HWID-rack.pdb
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID-rack.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID_rack.Form1.resources
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID_rack.Properties.Resources.resources
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID-rack.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID-rack.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID-rack.exe
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID-rack.pdb
+C:\Users\user\source\repos\HWID-rack\HWID-rack\obj\Debug\HWID_rack.Form2.resources
